@@ -133,3 +133,55 @@
 .place-btn {
     margin-top: 24px;
 }
+
+/* place section end  */
+.coming-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.coming-title {
+    width: 33%;
+    padding-right: 100px;
+}
+
+.coming-img {
+    width: 33%;
+    text-align: center;
+}
+
+.coming-end {
+    width: 33%;
+    padding-left: 100px;
+}
+
+.best {
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.title {
+    font-size: 48px;
+    color: #070211;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.sub-title {
+    font-size: 15px;
+    color: #89888a;
+    margin-top: 0;
+}
+
+.letest-year {
+    font-size: 48px;
+    color: #FF0000;
+    font-weight: bold;
+    margin-bottom: 0px;
+
+}

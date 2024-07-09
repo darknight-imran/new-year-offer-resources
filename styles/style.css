@@ -114,3 +114,22 @@
     font-weight: 700;
     color: rgba(255, 255, 255, 0.8);
 }
+
+/* place section start  */
+.place-section {
+    background-color: #FDEDEC;
+    padding: 100px 0 100px 0;
+    border-radius: 10px;
+}
+
+.place {
+    text-align: center;
+}
+
+.place-adres {
+    color: #FF0000;
+}
+
+.place-btn {
+    margin-top: 24px;
+}

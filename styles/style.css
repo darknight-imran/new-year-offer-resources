@@ -10,6 +10,20 @@
     margin: 50px 140px 120px 140px;
 }
 
+.btn-primary {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #FF0000;
+    border: 0;
+    border-radius: 5px;
+    padding: 15px 25px;
+    cursor: pointer;
+}
+
+/* margin end  */
+
+
 .new-year-image {
     filter: brightness(80%);
 }
@@ -61,4 +75,42 @@
     font-size: 48px;
     font-weight: bold;
     margin-top: 15px;
+}
+
+/* welcome section start */
+.display-flex {
+    display: flex;
+}
+
+.welcome {
+    position: relative;
+    text-align: start;
+    color: white;
+}
+
+.welcome-conteinar {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+
+.year-img {
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+.welcome-title {
+    font-size: 64px;
+    font-weight: 800;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 0;
+}
+
+.welcome-drescription {
+    font-size: 18px;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.8);
 }

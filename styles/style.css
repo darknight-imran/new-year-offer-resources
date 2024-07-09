@@ -139,7 +139,7 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    
+
 }
 
 .coming-title {
@@ -185,3 +185,43 @@
     margin-bottom: 0px;
 
 }
+
+/* coming section end */
+
+/* sale section start  */
+.text-center {
+    text-align: center;
+}
+
+.functional-text {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.holidays-color {
+    color: #FF0000;
+}
+
+.sale-title {
+    font-size: 72px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.sale-drescription {
+    margin-top: 0;
+}
+
+.holidays-bg {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 150px;
+    background-image: url('../images/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100%;
+}
+/* sale section end */

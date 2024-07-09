@@ -224,4 +224,19 @@
     background-position: bottom;
     background-size: 100%;
 }
+
 /* sale section end */
+
+
+/* Our Awesome Portfolio section start */
+.awesome-portfolio {
+    margin-top: 50px;
+}
+
+.awesome-portfolio img {
+    width: 510px;
+    height: 500px;
+    padding-right: 22px;
+    padding-bottom: 22px;
+}
+/* Our Awesome Portfolio section start */
